@@ -462,7 +462,19 @@ in the Software without restriction...
 - [x] Comprehensive statistical analysis
 - [x] 12 visualization types
 - [x] Data quality assessment
-- [x] Business insights generation
+- [x] Business insights generation![Uploading 12_advanced_analytics_dashboard.png…]()
+<img width="4531" height="3728" alt="11_comprehensive_dashboard" src="https://github.com/user-attachments/assets/113a8080-a9c5-4051-852d-73b83997f0be" />
+<img width="4140" height="2339" alt="10_salary_violin_plot" src="https://github.com/user-attachments/assets/e8b073ce-377f-4fdf-b25a-311687832967" />
+<img width="4735" height="1739" alt="09_performance_distribution" src="https://github.com/user-attachments/assets/23fa4faf-a42a-4c1f-813f-5d75bc21af4c" />
+<img width="3321" height="2339" alt="08_experience_salary" src="https://github.com/user-attachments/assets/bed4956c-7d94-45fb-a776-cd02117e75a3" />
+<img width="3307" height="3001" alt="07_correlation_heatmap" src="https://github.com/user-attachments/assets/212c92f5-c74d-4bba-81af-24a9d757fbc3" />
+<img width="3532" height="2339" alt="06_salary_vs_age" src="https://github.com/user-attachments/assets/b6963b6e-5349-46a0-a173-14f1e063ad3c" />
+<img width="3538" height="2039" alt="05_employee_count_by_dept" src="https://github.com/user-attachments/assets/f25a8c46-7c95-4f18-aaef-fc92a40cdd79" />
+<img width="2905" height="2941" alt="04_gender_distribution" src="https://github.com/user-attachments/assets/6a134b89-a122-4584-a656-fe4e4dc1e8d5" />
+<img width="4140" height="2039" alt="03_salary_boxplot" src="https://github.com/user-attachments/assets/95c32401-85bb-428f-8290-a3d830554add" />
+<img width="3539" height="2039" alt="02_age_distribution" src="https://github.com/user-attachments/assets/d9c316cd-2933-4e2e-a919-87bc2702787f" />
+<img width="3537" height="1739" alt="01_salary_by_department" src="https://github.com/user-attachments/assets/d523bb8a-f647-44ac-a72c-3ad28af640c2" />
+
 
 ---
 
@@ -489,8 +501,8 @@ def currency_formatter(x, pos):
 ## 📞 Support
 
 For issues, questions, or suggestions:
-- **Open an Issue**: [GitHub Issues](https://github.com/yourusername/employee-data-analysis/issues)
-- **Email**: kashif.ali@example.com
+- **Open an Issue**: [GitHub Issues](https://github.com/theabdulwasay/employee-data-analysis/issues)
+- **Email**: abdulwasaymalik757@gmail.com
 - **Documentation**: See `docs/` folder
 
 ---
