@@ -217,7 +217,7 @@ employee-data-analysis/
 ├── LICENSE                        # MIT License
 │
 ├── data/
-│   └── employee_dataset_raw.csv  # Your input data (optional)
+│   └── employee_dataset_raw.csv  
 │
 ├── outputs/                       # Generated visualizations
 │   ├── *.png                      # All visualization files
